@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pac man</string>
+    <string name="game_view_content_description">Game View</string>
+    <string name="tvScore">0</string>
+</resources>
